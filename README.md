@@ -1,1 +1,1 @@
-# ETL-Project
+The data files used in this project are stored in the CSV folder. Due to their large size, they are not included in this repository. You can download the files from the following link: (https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset).
